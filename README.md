@@ -27,11 +27,11 @@ git clone "https://huggingface.co/Unknown6197/BEFUnet_Brats2020"
 
 ## Dataset
 
-The dataset used in this project is the BraTS2020 dataset, which contains MRI images of brain tumors. The dataset is divided into training and test sets. Here is a brief description of how the data is organized and preprocessed:
+The dataset used in this project is the BraTS2020 dataset, which contains MRI images of brain tumors. The dataset is divided into training and test sets.
 
-**Training Data:** Located at `/kaggle/input/brats2020-training-data/BraTS2020_training_data/content/data`.
+**Training Data:** Located at `/kaggle/input/brats2020-training-data`.
 
-## MyContributing
+## My Contributing
 
 Role: Classification Part
 Responsibilities:

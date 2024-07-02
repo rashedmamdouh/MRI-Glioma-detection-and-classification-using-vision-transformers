@@ -33,8 +33,8 @@ The dataset used in this project is the BraTS2020 dataset, which contains MRI im
 
 ## MyContributing
 
-Role: Classification Part
-Responsibilities:
+Role:\n Classification Part\n
+Responsibilities:\n
 Led the classification model development.
 Preprocessed and analyzed the dataset.
 Designed and implemented the classification algorithm.

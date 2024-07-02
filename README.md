@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation and Classification
+# Brain Tumor Segmentation and Classification (Graduation Project)
 
 ## Overview
 

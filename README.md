@@ -4,15 +4,6 @@
 
 This project focuses on developing a AI Model for brain tumor segmentation and classification using Glioma MRI images. The project leverages deep learning techniques to accurately segment and classify brain tumors, utilizing a combination of popular Python libraries including PyTorch, Keras, OpenCV, and more.
 
-## Table of Contents
-
-1. [Installation](#installation)
-2. [Dataset](#dataset)
-3. [Training](#training)
-4. [Evaluation](#evaluation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Installation
 

@@ -6,11 +6,11 @@ This repo targets robust **segmentation** and **glioma classification** from mul
 
 ## ✨ Key Features | المميزات
 
-- **Tumor segmentation** using transformer-based models (BEFUnet, Swin-UNet, etc.) :contentReference[oaicite:1]{index=1}  
+- **Tumor segmentation** using transformer-based models (BEFUnet, Swin-UNet, etc.) 
 - **Glioma classification** based on segmented regions: tumor grading or subtyping  
-- Multi-sequence MRI input support: T1, T1‑CE, T2, FLAIR :contentReference[oaicite:2]{index=2}  
+- Multi-sequence MRI input support: T1, T1‑CE, T2, FLAIR
 - End-to-end pipeline: preprocessing — segmentation — classification — visualization  
-- Optional **Flask API** for inference served via REST endpoints :contentReference[oaicite:3]{index=3}
+- **Flask API** for inference served via REST endpoints
 
 ---
 

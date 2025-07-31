@@ -1,3 +1,7 @@
+# MRI-Glioma Detection & Classification with Vision Transformers (Academic Collaborations)
+
+Advanced brain tumor segmentation and glioma-classification using Vision Transformers (ViTs) and hybrid architectures, implemented with PyTorch and Keras.
+
 ## 👁️‍🗨️ Overview | نظرة عامة
 
 This repo targets robust **segmentation** and **glioma classification** from multi-sequence MRI scans using state-of-the-art Vision Transformer models and Resnet CNN pipelines.  

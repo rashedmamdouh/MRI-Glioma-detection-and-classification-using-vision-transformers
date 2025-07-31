@@ -2,13 +2,13 @@
 
 Advanced brain tumor segmentation and glioma-classification using Vision Transformers (ViTs) and hybrid architectures, implemented with PyTorch and Keras.
 
-## 👁️‍🗨️ Overview | نظرة عامة
+## 👁️‍🗨️ Overview
 
 This repo targets robust **segmentation** and **glioma classification** from multi-sequence MRI scans using state-of-the-art Vision Transformer models and Resnet CNN pipelines.  
 
 ---
 
-## ✨ Key Features | المميزات
+## ✨ Key Features 
 
 - **Tumor segmentation** using transformer-based models (BEFUnet, Swin-UNet, etc.) 
 - **Glioma classification** based on segmented regions: tumor grading or subtyping  
@@ -37,7 +37,7 @@ This repo targets robust **segmentation** and **glioma classification** from mul
 
 ---
 
-## 🛠️ Installation & Setup | التثبيت
+## 🛠️ Installation & Setup 
 
 ```bash
 git clone https://github.com/rashedmamdouh/MRI-Glioma-detection-and-classification-using-vision-transformers.git
@@ -98,7 +98,7 @@ Include confusion matrices, Dice scores, and classification accuracy plots in yo
 
 ---
 
-## 📃 Project Structure | هيكل المشروع
+## 📃 Project Structure 
 
 | Component               | Description                                  |
 | ----------------------- | -------------------------------------------- |
@@ -106,28 +106,6 @@ Include confusion matrices, Dice scores, and classification accuracy plots in yo
 | `BEFUnet_Brats2020/`    | Pretrained segmentation model files          |
 | `NoteBook.ipynb`        | Demo and experiment scripts                  |
 | `DocumentationBook.pdf` | Full report of methodology and outcomes      |
-
----
-
-## 📝 License & Contributions | الترخيص والمساهمة
-
-MIT License — see the included `LICENSE` file.
-Contributions are welcome via forks and pull requests (please follow code style and provide unit tests).
-
----
-
-## 👨‍💻 Author | المطور
-
-**Rashed Mamdouh** – AI engineer (Arabic/English native speaker, learning Chinese)
-Focus areas: Transformers, Computer Vision, Deep Learning, Vision‑Web integration.
-
----
-
-## 🔭 Next Steps | الخطوات المستقبلية
-
-* Experiment with hybrid CNN-Transformer models (Swin UNETR, BEFUnet, ResMT) ([GitHub][2], [sciencedirect.com][7])
-* Expand classification to glioma grading and integrate radiomic feature fusion
-* Develop an interactive frontend using Node.js + React + multilingual support (English / 中文 / العربية)
 
 ---
 

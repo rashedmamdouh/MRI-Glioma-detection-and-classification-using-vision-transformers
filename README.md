@@ -8,7 +8,7 @@ This repo targets robust **segmentation** and **glioma classification** from mul
 
 ---
 
-## ✨ Key Features 
+##  Key Features 
 
 - **Tumor segmentation** using transformer-based models (BEFUnet, Swin-UNet, etc.) 
 - **Glioma classification** based on segmented regions: tumor grading or subtyping  
@@ -18,7 +18,7 @@ This repo targets robust **segmentation** and **glioma classification** from mul
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 ```
 
@@ -37,7 +37,7 @@ This repo targets robust **segmentation** and **glioma classification** from mul
 
 ---
 
-## 🛠️ Installation & Setup 
+##  Installation & Setup 
 
 ```bash
 git clone https://github.com/rashedmamdouh/MRI-Glioma-detection-and-classification-using-vision-transformers.git
@@ -50,7 +50,7 @@ Use the **BraTS 2020** dataset (requires registration). Place multi-modal MRI sc
 
 ---
 
-## 🚀 Usage Examples
+##  Usage Examples
 
 ### 1. Segmentation & Classification (Notebook)
 
@@ -80,7 +80,7 @@ Supports real-time inference and result visualization. ([GitHub][3], [GitHub][1]
 
 ---
 
-## 📊 Metrics & Results
+##  Metrics & Results
 
 * Segmentation: BEFUnet achieves \~**0.80 mIoU** on BraTS2020 ([GitHub][2])
 * Classification: Reported accuracies around **90–95%** for glioma sub-typing with fine‑tuned ViT models in literature ([أرشيف أرآيف][4], [GitHub][5])
@@ -89,7 +89,7 @@ Include confusion matrices, Dice scores, and classification accuracy plots in yo
 
 ---
 
-## 🧩 Customization & Extensions
+##  Customization & Extensions
 
 * Add Hodgkin or novel transformer models like Swin UNETR, TransBTS or ResMT ([أرشيف أرآيف][6], [sciencedirect.com][7])
 * Fine-tune the ViT classification module on glioma subtypes (e.g., LGG vs HGG)
@@ -98,7 +98,7 @@ Include confusion matrices, Dice scores, and classification accuracy plots in yo
 
 ---
 
-## 📃 Project Structure 
+##  Project Structure 
 
 | Component               | Description                                  |
 | ----------------------- | -------------------------------------------- |
